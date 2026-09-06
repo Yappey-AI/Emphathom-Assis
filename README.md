@@ -98,7 +98,7 @@ I am preparing for this from Wah Cantt, Pakistan, with no guidance counselor, no
 Emphathom is not just my passion project for the application. It is proof that I do not wait for permission to build things. It is proof that curiosity, when it is real, does not need a classroom to survive.
 
 ---
-
+EDIT:
 ## Daily Progress
 
 This repository will be updated every single day after i have basic knowledge of coding. Every commit is a day of work. Every line of code is a step in a journey that started with zero knowledge and is heading somewhere I cannot yet fully see.
