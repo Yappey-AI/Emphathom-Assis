@@ -1,0 +1,26 @@
+Day 5 - sept 6, 2026
+
+Question 1
+If Emphathom responded to "I'm fine" correctly in a situation where you clearly weren't fine — how would you know it actually understood versus just got lucky with a good prediction?
+
+Okh so for the complete state of emophathom, i would imagine that it predicted, from our previous conversations, since it'll have memory banks, it will be able to preadict by comparing the simplicity of text i'm fine with the older conversations + the digital chemicals.
+If we say like, emphathom noticed stress and upset and different emotion levels from recent chats and compared with the energy of the text and then told the answer, if necessary we can make it say, are you sure?? in response to the statement its not clear and is confused if they are upset or just tired or neither.
+A system that knows when it doesn't understand is more honest than one that always confidently responds.
+
+Question 2:
+What would you need to observe in Emphathom's behavior to say — with confidence — "yes, this is closer to understanding than before"?
+Some people can hide their emotions very well, just like me :). A person might be crying while texting someone but they can text in such a way that the other person won't even have a flinch that this person is upset. So i wouldn't suppose that emphathom can ever understand that kind of masking, but if it does notice small changes such as
+fine man, what bt you? and fine.. and fine
+And expect the emotion levels of digital chemicals correctly then i'd say its getting closer to our goal.
+I know from personal experience that people mask emotions through text. The test for Emphathom isn't whether it catches obvious distress, it's whether it catches the subtle deviations shorter responses, changed punctuation, rhythm shifts.
+
+Question 3:
+Can you design a simple test — even just 5-10 examples — where you give Emphathom a statement, tell it the context, and then judge whether its response shows understanding or just prediction?
+Since there's a lot of time left until emphathom is ready, or even brain will be added like 20-25 days from now, so i won't make those now but i'll make sure that i make 50-100 statements before the emphathom is at the stage of atleast having a brain.
+
+So, if emphathom feels that it doesn't have enough information to know the true emotions of the human, we can make it ask something like, Are you really fine?
+
+Limitations (Hard to solve)
+But also one thing that i think would be the hardest to make our AI understand is, making it know all the emotions not only one or two.
+Like, a person, just to have fun, might say that he's not fine and the AI would take that seriously and reply accordingly while the person is just worrying on emphathom worrying.
+So the biggest disadvantage for an AI is, it only sees the text, nothing else. So if i couldn't achieve the goal of emphathom with only text, what else can i add to it? what factors can provide significant help for this purpose??

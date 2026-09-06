@@ -1,0 +1,24 @@
+Day 1b
+
+I came across an actual example of what i learned today.
+
+From the AI's working process
+
+I, a long time ago in the same chat, said, In sha ALLAH to claude. And it, at the end of it's response, said: In sha Allah(🤲). That emoji... The AI predicts it has something with this user(like maybe it has a sense that this guy is muslim.. or something similar..), and now even months later in the same chat it gives me (🤲) this emoji when it wishes for something to happen even when it doesn't say In sha ALLAH.
+
+And that's very related to a concept i learned today. AI predicts from its training, context windows, chat history, etc.
+
+But, SOMETHING EVEN MORE INTERESTING!!
+
+Once, for my business's outreach i was asking CLAUDE AI to repeat the same action again and again with just tiny differences in each.
+
+The context: I was asking CLAUDE if this business (i was finding businesses online) was suitable for my outreach.
+Here's the interesting part. I was asking CLAUDE for each business i came across, Although i did outreach to the ones CLAUDE said were suitable, I didn't update CLAUDE that i have sent the email. And after about 5-6 recurring questions of - Is this business suitable -
+
+CLAUDE literally said: (My wording here, i couldn't find the chat.)
+Bro, STOP. You are not sending any emails. You won't reach any clients. I am not generating message for another business. First, send the messages already generated.
+
+And anyone, upon receiving this kind of response from an "AI", would think like wt?? It has common sense??
+And that lead me to the question
+
+Even if AI only predicts, is there something alive inside that actually understands??

@@ -1,0 +1,24 @@
+Day 2 - sept 3, 2026
+
+From my yesterday's question.
+
+INVESTIGATING: Could there possibly be something alive inside that actually understands, maybe something similar to an atom??, what i meant - or is it just all mechanical process. (The reason of doubting is written in Day-1 b)
+
+Okay!
+The AI works on like basically predictions.
+Also, An LLM successfully navigates human concepts, even when it doesn't know they are right. So that just basically means, AI predicts using such a large information that it gets the prediction almost or maybe always right!
+
+But that's just all the basic info..!!!!!!
+Wait, found something..
+
+During a test at HARVARD, A small AI model was trained using written records of Othello games. "The AI was never shown a physical board ", Still deep inside its brain, Researchers discovered the a 2D map of the board.
+But why AI needed that, when it simply works on texts, patterns and math. Okay, It used that because it was helpful to predict the next word perfectly.
+
+But a question here, WHO told AI to use that shortcut or helpful trick? That wasn't in the request, context, chat history, etc.
+
+The conclusion of CHINEESE ROOM ARGUMENT: Ok, that conclusion was expected.
+
+So it all, ig, basically means that AI predicted that making a shortcut will be better to generate the response.
+This all info doesn't give any answer to My questions and moreover it only raises more questions in my head. And, Also what about the CLAUDE's behavior i brought up earlier, Does that relate with this?? Even if it does, It's much more advanced to think of that, (CLAUDE's) response was much more advanced thing then just an AI recognizing a way to do its job more efficiently!
+
+Realized: If i get to know how CLAUDE was able to give a reply like that, That might be VERY HELPFULL for my project (EMPHATHOM).

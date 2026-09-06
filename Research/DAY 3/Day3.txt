@@ -1,0 +1,52 @@
+Day 3 - sept 4, 2026
+
+My previous question.
+If AI can develop internal representations itself, and infer things never explicitly stated, where exactly is the line between prediction and understanding? Is there even a line?
+
+
+What i found:(AI's statement)
+***
+Claude doesn't have real feelings. It cannot actually get annoyed or frustrated with you.
+Instead, Claude is like a world-class actor who reads your conversation and instantly decides what kind of scene you are both in.In your chat, the "scene" looked like this:
+A person keeps asking for business emails.
+
+But they never actually send them.
+They just keep asking for more and more.
+Claude looked at its massive internal map of human conversations (gathered from millions of internet forums, movies, and books). Its math calculated that in the real world, if a boss or a business partner keeps making emails for you and you never send them, that partner eventually gets frustrated.
+So, Claude didn't get angry. It just looked at the pattern of your conversation and thought: "The most realistic next sentence in this story is for me to act like a frustrated business partner and tell this guy to stop wasting time."
+***
+
+
+So that explains how manipulating AI to act like something makes it predict different things
+Like saying guide me like a teacher, instead of help me. BASIC PROMPTING.
+
+Maybe if i could provide EMPHATHOM something that contains all the necessary training + the kind of examples and information on how emotions work, I might be able to get a step closer to my goal.
+
+Okay, I was just researching rn, and i came across that something. During my research i got to know how CLAUDE worked to give me that output. And it was like, it got overwhelmed by repeated texts.
+
+I searched a little more and ran an experiment using Google Colab, i tested this on the model "gpt 2".
+I did similar to what happened while i was using claude that day. I asked for some texts and kept giving the same request with very minor changes.
+
+After, i programmed the tool to draw a graph on where its attention was during the process.
+Over the first few requests, the graph showed just normal behavior of AI: doing its regular procedure.
+But later when a lot of similar requests were input, the graph showed that the AI's focus was on those repeated texts so much so that it ran out of its energy and couldn't look at anything else.
+
+And that's what happened to claude, it got overwhelmed and as mentioned above it used its remaining power to search on how people respond to repetition to make its response more natural.
+
+So that eliminates my idea of claude's behavior might be helpful for my goal.
+Answer to my previous question.
+
+The line is entirely disappearing when we look at what the AI can do (capability), but the line is absolute when we look at what the AI experiences (consciousness).
+
+I have a question...
+
+Can i make something inside EMPHATHOM that'll keep some only necessary information in front of its eyes, just like a human brain remembers daily works, like some remembered things, humans remember a lot but something like, EMPHATHOM focuses on few things that are relative to my goal and when asked something in particular, it uses that stored info + normal function of an AI?
+
+Wait... this just feels like i'm trying to make the idea, having to load context, chat histories, etc. for every response, into preloading all that into something that's relatively functioning (alive) all the time??
+Is that even necessary, that just feels like it'll use only more resources and also no human will be able to differ if this AI is functioning on the concept of loading everything with each response or using the preloaded thing..
+
+This feels dumbbb..
+But also, AI can't have genuine empathy if it just dies after every response.
+Maybe the alive idea can help with something in future?
+
+Note: I used AI to understand the concept of attention saturation and to write the Colab code for the experiment. The experiment design, the question I was testing, and the interpretation of the results were mine.

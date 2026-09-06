@@ -1,0 +1,31 @@
+Day 4 - sept 5, 2026
+
+My previous question.
+
+If memory and continuity are prerequisites for genuine understanding, and current AI has neither between sessions, then is every AI response essentially the reaction of something that was just born and will immediately die? And if so, what can be different about EMPHATHOM.
+
+My thoughts:
+Yes, We can say that when the AI for each is working, it is basically alive and as soon its response is complete, its dead again.
+
+Another question: What's stopping us to make AI alive, I'm sure its not that scientists cannot do that, there has to be another reason.
+
+2 reasons stated:
+"Catastrophic Forgetting"
+"The Computational Cost of Changing a Brain"
+
+Ok these two make sense.
+
+But, since i'm broke i cant do anything about 2nd but for the first one.
+I have an idea for emphathom, What if i aside from its normal function, Make a small section where it keeps all the info that i want it to, i had this idea before as well, but it just felt dumb, and at such a small level like EMPHATHOM, it might be useless, but atleast i can make it alive for now, we will see the rest later.
+
+But there must be thousands of things that i'll have to take care of for this tiny goal itself.
+Like making emphathom keep its focus hard balanced on that section and all the other nueral network, so the thing "attention funneling" won't happen to it.
+
+And also, i suppose that memory section can't be very large, idk why but i feel like if it's like keeps getting bigger and bigger it'll break something.
+
+I got another idea. might be very good.
+From how humans' emotions work, i just researched and its something like the chemicals and those stuff, i know alittle aobut it, just like cortisol levels there are other chemicals that work with emotions.
+
+Maybe we can build something similar in emphathom? Like a digital chemical we can say that has emotion level and emphathom gets to change these levels based on humans responses and we could make a lot of emotional chemicals then emphathom sees all the emotion levels from those chemicals and can have an idea of the state of human and thus use its general functioning to generate a natural and good reply.
+
+And those chemicals will be alive all the time so we can say its alive?

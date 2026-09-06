@@ -1,0 +1,22 @@
+Day 1 - sept 2, 2026
+
+Before getting into my main idea of research, I'll have to learn how an AI currently works.
+
+What i investigated:
+How the current AIs are processing information, generating response, and how do they even know what to do next.
+
+What i learned:
+My basic idea before learning was its somehow hard coded and uses extra information sources to just give the answer but there were still tons of questions and things that just didn't make sense from my POV
+
+Now, I learned it "PREDICTS" the output. And a lot of things have started to make sense.
+Its training, context window, and everything to it has comes up together to predict the best output to the request of the user.
+
+And from this day 1 research, It's just a straight answer to me, AI doesn't understand, It predicts. But there's something in my mind, i can't see what, but 
+it's just telling me that there's something more. I don't know what that is, Maybe i'll figure that out soon.
+
+What surprised me was, one second AI basically knows nothing and the next second it knows everything.
+Like i used CHATGPT for this, and it basically was PREDICTING what it should say in answer to my questions. DAMN.
+
+My next question:
+If its only predicting, Could there possibly be something inside that enormously large machine that's alive and actually understood what i meant, if not, then can we make something like that?
+I don't know what it is yet. But I'll find out.
