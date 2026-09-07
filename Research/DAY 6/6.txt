@@ -1,0 +1,45 @@
+
+Day 6 - sept 7, 2026
+ 
+Answering to my question from day 5
+ 
+My initial list (before researching):
+Reply speed / typing speed; stopping between and typing slowly
+Orrrr
+If there was a way emphathom could read what the person wrote in the response bar even if they didn't send (they might write and delete and say fine)
+Orrrr
+If emphathom is voice controlled, or a live assistant, then maybe tone or loudness or recognition of the way of talking.
+Orrrr
+Ig differences in text tones, like also recognizing if those changes in tones are positive or negative
+ 
+Video could be a great option as well, but for some reason i don't wanna add that into emphathom.
+ 
+So ig, The best way is to maybe implement all three of these
+If option A worked then that's a straight win.
+Else B should give a very good idea, and C is a must
+ 
+What I found after researching:
+Advanced sensor streams such as LIDAR, radar, genomics, and IoT devices generate specialized data that autonomous machines and diagnostic tools process for real-world applications. These technologies enable machines and systems to map environments, detect movement, analyze genetic blueprints, and track physical conditions in real time. This is something i couldn't think of and its kind of hard to understand and ig way harder to implement. Its like using waves to identify motions?
+ 
+Environmental Context: The AI maps external factors, such as the time of day, current physical location, or recent stressful calendar events (e.g., a medical appointment or a late-night work shift), to evaluate the probability of distress. This is the second thing i couldn't think of.
+ 
+Final answer:
+Implementing A, B, C can help a lot. And the Environmental context may not help much but we can still try that.
+ 
+Next question:
+If I add voice tone as my primary non-text input, what specifically would I need to measure in someone's voice to detect emotional state? What does distress actually sound like, physically, in audio data, moreover, how will AI recognize that??
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
