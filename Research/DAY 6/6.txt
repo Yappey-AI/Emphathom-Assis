@@ -19,7 +19,10 @@ If option A worked then that's a straight win.
 Else B should give a very good idea, and C is a must
  
 What I found after researching:
-Advanced sensor streams such as LIDAR, radar, genomics, and IoT devices generate specialized data that autonomous machines and diagnostic tools process for real-world applications. These technologies enable machines and systems to map environments, detect movement, analyze genetic blueprints, and track physical conditions in real time. This is something i couldn't think of and its kind of hard to understand and ig way harder to implement. Its like using waves to identify motions?
+Advanced sensor streams such as LIDAR, radar, genomics, and IoT devices generate specialized data that autonomous machines and diagnostic tools process for real-world applications. These technologies enable machines and systems to map environments, detect movement, analyze genetic blueprints, and track physical 
+conditions in real time. 
+
+This is something i couldn't think of and its kind of hard to understand and ig way harder to implement. Its like using waves to identify motions?
  
 Environmental Context: The AI maps external factors, such as the time of day, current physical location, or recent stressful calendar events (e.g., a medical appointment or a late-night work shift), to evaluate the probability of distress. This is the second thing i couldn't think of.
  

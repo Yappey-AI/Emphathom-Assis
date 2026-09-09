@@ -1,0 +1,60 @@
+Day 7 - sept 9, 2026
+
+Previous Question:
+If I add voice tone as my primary non-text input, what specifically would I need to measure in someone's voice to detect emotional state? What does distress actually sound like, physically, in audio data, moreover, how will AI recognize that??
+
+Investigating:
+AI cannot actually feel or understand what "sad" or "scared" means. 
+Instead, it acts like a super-powered pattern spotter. When we get distressed, our body physically changes—our throat tightens, our breathing speeds up, and our voice shakes.
+The AI looks for the mathematical proof of those physical changes in the audio file.
+One: What We Actually Measure
+To look at voice tone, you have to break a sound wave down into specific clues:
+Pitch: 
+How high or low the voice is.
+Volume: How loud or quiet the speech is.
+Pacing: The speed of talking and how long the pauses are.
+Texture: Is the voice smooth, or is it raspy, shaky, and cracking?
+Two: What Distress Sounds Like to a Computer
+
+If someone is panicking or in deep distress, their body forces their voice to do very specific things that show up in the data:
+The pitch jumps way up: Throat tension makes the vocal cords tight, pulling the voice higher.
+The voice gets unstable: The pitch and volume bounce around wildly from second to second instead of staying steady. We call these micro-shakes jitter and shimmer.
+Choppy breathing: The person talks faster, takes sudden gasps, or leaves weird, irregular silences between words.
+
+A "piercing" sound: The sound energy shifts into higher, sharper frequencies, making the voice sound shrill or strained.
+Three: How the AI Does It (Step-by-Step)Cleaning: The AI takes the audio file and removes background noise or long silences.
+Pictures of Sound: It turns the sound wave into a visual chart called a spectrogram. This chart uses colors to show how loud, high, and shaky the voice is over time.
+Pattern Matching: The AI looks at this chart like an image. It compares it to thousands of other voice clips it has already studied (from actors or real emergency calls).
+
+The Guess: If the new voice chart matches the messy, sharp, high-pitched patterns of the "distress" clips it already knows, it outputs a percentage guess, like: "There is a 90% chance this person is distressed."
+
+
+
+
+
+
+Okh these are the already existing ways,
+leme try thinking maybe i can find a new way..
+
+While investigating what happens to humans when they are stressed biologically, i came across this.
+When humans are stressed or especially feared, their mouth dries up and no saliva is left, and this also makes different sounds from the mouth while speaking
+
+Investigated more:
+The sounds are usally about 4000-8000hz but when mouth dries up they change significantly
+
+Sooooo can emphathom notice that? Seems harddd
+
+Ok i found it
+First Emphathom will pass the audio to clear EVERYTHING BELOWW 6000hz  
+
+then making a graph for those sounds
+Normally for such graph it should be straight line, but for stressed and frightened considtions grapghs will show sudden high frequencies for split seconds. "micro pops and dry hisses", it can be differed from noise by some means gonna check that out later.
+
+
+Still difficult but at the very basic level, i can atleast try to implement two things, either dryness or no dryness was spotted.
+
+Ig there's a limitation
+This method is highly sensitive to recording quality, background noise, and microphone type. low quality microphones may not capture frequencies above 6000Hz accurately. so at place where the many above 6000hz sounds are present, it might be a huge problem for emphathom, and low quality microphone might not record correctly even in a decent bg environment. 
+
+
+Okay these are plenty of singals. pitch instability, jitter, shimmer, and dry mouth artifacts. But stress and distress are not the same thing. Excitement also raises pitch. Laughter also creates irregular frequencies. How will emphathom know the difference between positive and negative high arousal states?
